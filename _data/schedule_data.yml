@@ -40,11 +40,12 @@
     Week ?: <strong>Fine-tuning</strong>
   topics:
     - Methods
-    - Training
+    - Instruction Tuning
   readings:
     - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> <br/>
     - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> <br/>
     - <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca&#58; A Strong, Replicable Instruction-Following Model</a> <br/>
+    - <a href="https://arxiv.org/abs/2112.00114">Show Your Work&#58; Scratchpads for Intermediate Computation with Language Models</a> <br/>
   extra readings:
     - <a href="https://arxiv.org/abs/2305.11206">LIMA&#58; Less Is More for Alignment</a> <br/>
     - <a href="https://arxiv.org/abs/2304.12244">WizardLM&#58; Empowering Large Language Models to Follow Complex Instructions</a> <br/>
@@ -68,11 +69,9 @@
   title: >
     Week ?: <strong>RLHF</strong>
   topics:
-    - Transformer code
-    - Training
+    - RLHF
   readings:
     - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
   extra readings:
     - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a> <br/>
 
@@ -80,20 +79,21 @@
   title: >
     Week ?: <strong>Prompting Strategies</strong>
   topics:
-    - Transformer code
-    - Training
+    - Few-shot learning
+    - Other prompting strategies
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2205.11916">Large Language Models are Zero-Shot Reasoners</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations&#58; What Makes In-Context Learning Work?</a> <br/>
+    - <a href="https://arxiv.org/abs/2305.10601">Tree of Thoughts&#58; Deliberate Problem Solving with Large Language Models</a> <br/>
 
 - date: tbd
   title: >
     Week ?: <strong>Scaling Laws and Emergent Abilities</strong>
   topics:
-    - Transformer code
-    - Training
+    - Scaling Laws
+    - Emergent Abilities
   readings:
     - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2203.15556">Training Compute-Optimal Large Language Models</a> <br/>
@@ -106,8 +106,8 @@
   title: >
     Week ?: <strong>Multi-modal Models</strong>
   topics:
-    - Transformer code
-    - Training
+    - Vision-Language Models
+    - Other Multi-modal Models
   readings:
     - <a href="https://arxiv.org/abs/2303.03378">PaLM-E&#58; An Embodied Multimodal Language Model</a> <br/>
     - <a href="https://arxiv.org/abs/2204.14198">Flamingo&#58; a Visual Language Model for Few-Shot Learning</a> <br/>
@@ -118,8 +118,8 @@
   title: >
     Week ?: <strong>Applications to RL</strong>
   topics:
-    - Transformer code
-    - Training
+    - Applications to Exploration
+    - Integration with Robotics
   readings:
     - <a href="https://arxiv.org/abs/2302.06692">Guiding Pretraining in Reinforcement Learning with Large Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2307.15818">RT-2&#58; Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> <br/>
@@ -130,32 +130,30 @@
   title: >
     Week ?: <strong>Ethics and Societal Impacts</strong>
   topics:
-    - Transformer code
-    - Training
+    - Current Issues&#58; bias, jobs, etc.
+    - Potential Future Issues
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://dl.acm.org/doi/10.1145/3442188.3445922">On the Dangers of Stochastic Parrots&#58; Can Language Models Be Too Big?</a> <br/>
+    - <a href="https://arxiv.org/abs/2308.14840">Identifying and Mitigating the Security Risks of Generative AI</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://www.science.org/doi/10.1126/science.adj5957">How do we know how smart AI systems are?</a> <br/>
+    - <a href="https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/">How Rogue AIs may Arise</a> <br/>
 
 - date: tbd
   title: >
     Week ?: <strong>Retrieval-Augmented Generation</strong>
   topics:
-    - Transformer code
-    - Training
+    - Retrieval-Augmented Generation
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a> <br/>
+    - <a href="https://arxiv.org/abs/2208.03299">Atlas&#58; Few-shot Learning with Retrieval Augmented Language Models</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
 
 - date: tbd
   title: >
     Week ?: <strong>Tool Use</strong>
   topics:
-    - Transformer code
-    - Training
+    - Methods to Teach Tool Use
   readings:
     - <a href="https://arxiv.org/abs/2302.04761">Toolformer&#58; Language Models Can Teach Themselves to Use Tools</a> <br/>
     - <a href="https://arxiv.org/abs/2308.00675">Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models</a> <br/>
@@ -171,6 +169,6 @@
     - Training
   readings:
     - <a href="https://arxiv.org/abs/2305.16291">Voyager&#58; An Open-Ended Embodied Agent with Large Language Models</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2304.03442">Generative Agents&#58; Interactive Simulacra of Human Behavior</a> <br/>
   extra readings:
     - <a href="https://arxiv.org/abs/2308.03688">AgentBench&#58; Evaluating LLMs as Agents</a> <br/>
