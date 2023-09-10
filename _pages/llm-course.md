@@ -48,6 +48,15 @@ title: LLM Course
                {% endfor %}
         </ul>
     </td>
+    <td>
+        <ul>
+               {% for extrareading in lecture.extra-readings %}
+                  <li style="font-size:12px;">
+                     {{extrareading}}
+                  </li>
+               {% endfor %}
+        </ul>
+    </td>
     {% endif %}
 </tr>
 {% else %}
