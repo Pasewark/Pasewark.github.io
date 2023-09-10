@@ -4,8 +4,9 @@ permalink: /llm-course/
 title: LLM Course
 ---
 
-** Exact topics and schedule subject to change, based on student interests and course discussions. **
-** Readings for a given week should be done prior to the class so we can discuss them. Extra readings are optional, but will help with your understanding. **
+Exact topics and schedule subject to change, based on student interests and course discussions.
+
+Readings for a given week should be done prior to the class so we can discuss them. Extra readings are optional, but will help with your understanding.
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
