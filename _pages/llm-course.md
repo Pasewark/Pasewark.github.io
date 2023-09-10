@@ -10,7 +10,7 @@ title: LLM Course
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures_2023 %}
+{% for item in site.data.schedule_data %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
