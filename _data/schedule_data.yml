@@ -133,6 +133,7 @@
     - Current Issues&#58; bias, jobs, etc.
     - Potential Future Issues
   readings:
+    - <a href="https://arxiv.org/abs/2112.04359">Ethical and social risks of harm from Language Models</a> <br/>
     - <a href="https://dl.acm.org/doi/10.1145/3442188.3445922">On the Dangers of Stochastic Parrots&#58; Can Language Models Be Too Big?</a> <br/>
     - <a href="https://arxiv.org/abs/2308.14840">Identifying and Mitigating the Security Risks of Generative AI</a> <br/>
   extra-readings:
