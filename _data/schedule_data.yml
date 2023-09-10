@@ -31,6 +31,7 @@
     - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
   extra readings:
     - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a> <br/>
 
 
 
@@ -42,21 +43,26 @@
     - Training
   readings:
     - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> <br/>
+    - <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca&#58; A Strong, Replicable Instruction-Following Model</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2305.11206">LIMA&#58; Less Is More for Alignment</a> <br/>
+    - <a href="https://arxiv.org/abs/2304.12244">WizardLM&#58; Empowering Large Language Models to Follow Complex Instructions</a> <br/>
 
 - date: tbd
   title: >
-    Week ?: <strong>Parameter-efficient Methods</strong>
+    Week ?: <strong>Parameter-efficient Methods and other Tricks</strong>
   topics:
-    - Transformer code
-    - Training
+    - Optimizers, Gradient Accumulation, Batch Size, etc.
+    - Parallelism Strategies
+    - LoRA and other parameter-efficient methods
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2106.09685">LoRA&#58; Low-Rank Adaptation of Large Language Models</a> <br/>
+    - <a href="https://huggingface.co/docs/transformers/perf_train_gpu_one">Methods and tools for efficient training on a single GPU</a> <br/>
+    - <a href="https://huggingface.co/docs/transformers/perf_train_gpu_many">Efficient Training on Multiple GPUs</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2">Fine-Tuning LLMs&#58; LoRA or Full-Parameter? An in-depth Analysis with Llama 2</a> <br/>
+    - <a href="https://arxiv.org/abs/2101.00190">Prefix-Tuning&#58; Optimizing Continuous Prompts for Generation</a> <br/>
 
 - date: tbd
   title: >
@@ -68,7 +74,7 @@
     - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> <br/>
     - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a> <br/>
 
 - date: tbd
   title: >
@@ -89,10 +95,12 @@
     - Transformer code
     - Training
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2203.15556">Training Compute-Optimal Large Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2304.15004">Are Emergent Abilities of Large Language Models a Mirage?</a> <br/>
+    - <a href="https://arxiv.org/abs/2309.01809">Are Emergent Abilities in Large Language Models just In-Context Learning?</a> <br/>
 
 - date: tbd
   title: >
@@ -104,7 +112,7 @@
     - <a href="https://arxiv.org/abs/2303.03378">PaLM-E&#58; An Embodied Multimodal Language Model</a> <br/>
     - <a href="https://arxiv.org/abs/2204.14198">Flamingo&#58; a Visual Language Model for Few-Shot Learning</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2209.06794">PaLI&#58; A Jointly-Scaled Multilingual Language-Image Model</a> <br/>
 
 - date: tbd
   title: >
@@ -114,9 +122,9 @@
     - Training
   readings:
     - <a href="https://arxiv.org/abs/2302.06692">Guiding Pretraining in Reinforcement Learning with Large Language Models</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2307.15818">RT-2&#58; Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2302.02662">Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning</a> <br/>
 
 - date: tbd
   title: >
@@ -149,10 +157,11 @@
     - Transformer code
     - Training
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2302.04761">Toolformer&#58; Language Models Can Teach Themselves to Use Tools</a> <br/>
+    - <a href="https://arxiv.org/abs/2308.00675">Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2205.12255">TALM&#58; Tool Augmented Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2307.16789">ToolLLM&#58; Facilitating Large Language Models to Master 16000+ Real-world APIs</a> <br/>
 
 - date: tbd
   title: >
@@ -161,7 +170,7 @@
     - Transformer code
     - Training
   readings:
-    - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
+    - <a href="https://arxiv.org/abs/2305.16291">Voyager&#58; An Open-Ended Embodied Agent with Large Language Models</a> <br/>
     - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
   extra readings:
-    - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
+    - <a href="https://arxiv.org/abs/2308.03688">AgentBench&#58; Evaluating LLMs as Agents</a> <br/>
