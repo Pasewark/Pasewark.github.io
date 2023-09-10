@@ -37,7 +37,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Fine-tuning</strong>
+    Week 4: <strong>Fine-tuning</strong>
   topics:
     - Methods
     - Instruction Tuning
@@ -52,7 +52,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Parameter-efficient Methods and other Tricks</strong>
+    Week 5: <strong>Parameter-efficient Methods and other Tricks</strong>
   topics:
     - Optimizers, Gradient Accumulation, Batch Size, etc.
     - Parallelism Strategies
@@ -67,7 +67,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>RLHF</strong>
+    Week 6: <strong>RLHF</strong>
   topics:
     - RLHF
   readings:
@@ -77,7 +77,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Prompting Strategies</strong>
+    Week 7: <strong>Prompting Strategies</strong>
   topics:
     - Few-shot learning
     - Other prompting strategies
@@ -90,7 +90,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Scaling Laws and Emergent Abilities</strong>
+    Week 8: <strong>Scaling Laws and Emergent Abilities</strong>
   topics:
     - Scaling Laws
     - Emergent Abilities
@@ -104,7 +104,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Multi-modal Models</strong>
+    Week 9: <strong>Multi-modal Models</strong>
   topics:
     - Vision-Language Models
     - Other Multi-modal Models
@@ -116,7 +116,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Applications to RL</strong>
+    Week 10: <strong>Applications to RL</strong>
   topics:
     - Applications to Exploration
     - Integration with Robotics
@@ -128,7 +128,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Ethics and Societal Impacts</strong>
+    Week 11: <strong>Ethics and Societal Impacts</strong>
   topics:
     - Current Issues&#58; bias, jobs, etc.
     - Potential Future Issues
@@ -141,7 +141,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Retrieval-Augmented Generation</strong>
+    Week 12: <strong>Retrieval-Augmented Generation</strong>
   topics:
     - Retrieval-Augmented Generation
   readings:
@@ -151,7 +151,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>Tool Use</strong>
+    Week 13: <strong>Tool Use</strong>
   topics:
     - Methods to Teach Tool Use
   readings:
@@ -163,7 +163,7 @@
 
 - date: tbd
   title: >
-    Week ?: <strong>LLMs as Agents</strong>
+    Week 14: <strong>LLMs as Agents</strong>
   topics:
     - Transformer code
     - Training
