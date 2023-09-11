@@ -4,7 +4,7 @@ permalink: /llm-course/
 title: LLM Course
 ---
 
-Exact topics and schedule subject to change, based on student interests and course discussions.
+Exact topics and schedule subject to change, based on student interests and course discussions. Feel free to let me know if there are some topics or papers you would like to cover.
 
 Readings for a given week should be done prior to the class so we can discuss them. Extra readings are optional, but will help with your understanding.
 
