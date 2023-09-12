@@ -67,9 +67,11 @@
 
 - date: tbd
   title: >
-    Week 6: <strong>RLHF</strong>
+    Week 6: <strong>RLHF and more Fine-tuning</strong>
   topics:
     - RLHF
+    - Data Quality
+    - Do we need RL?
   readings:
     - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> <br/>
   extra-readings:
