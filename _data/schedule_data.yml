@@ -3,15 +3,15 @@
     Week 1: <strong>Course Introduction</strong>
   topics:
     - Course structure and outline
-    - Intro to ML and NLP
+    - Intro to ML and Language Modeling
   readings:
   extra-readings:
 
 - date: tbd
   title: >
-    Week 2: <strong>ML and NLP Introduction</strong>
+    Week 2: <strong>ML and LM Introduction</strong>
   topics:
-    - More on ML and NLP
+    - More on ML and Language Modeling
     - Quick intro to neural networks
     - Transformers
   readings:
