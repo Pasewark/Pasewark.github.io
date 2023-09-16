@@ -76,6 +76,7 @@
   readings:
     - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> <br/>
   extra-readings:
+    - <a href="https://arxiv.org/abs/2308.08998">Reinforced Self-Training (ReST) for Language Modeling</a> <br/>
     - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a> <br/>
 
 - date: tbd
