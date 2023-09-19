@@ -1,4 +1,4 @@
-- date: tbd
+- date: 9/19
   title: >
     Week 1: <strong>Course Introduction</strong> <a href="Course_Description.pdf">[course description]</a> <a href="Neural_Nets_Intro.pdf">[nn intro]</a>
   topics:
@@ -7,7 +7,7 @@
   readings:
   extra-readings:
 
-- date: tbd
+- date: 9/26
   title: >
     Week 2: <strong>LM and Transformers</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
   topics:
@@ -20,7 +20,7 @@
   extra-readings:
     
 
-- date: tbd
+- date: 10/3
   title: >
     Week 3: <strong>Transformers</strong>
   topics:
