@@ -1,6 +1,6 @@
 - date: tbd
   title: >
-    Week 1: <strong>Course Introduction</strong> <a href="Course_Description.pdf">[course description]</a>
+    Week 1: <strong>Course Introduction</strong> <a href="Course_Description.pdf">[course description]</a> <a href="Neural_Nets_intro.pdf">[nn intro]</a>
   topics:
     - Course structure and outline
     - Intro to ML and Language Modeling
