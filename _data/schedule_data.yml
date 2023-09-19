@@ -3,7 +3,7 @@
     Week 1: <strong>Course Introduction</strong> <a href="Course_Description.pdf">[course description]</a> <a href="Neural_Nets_intro.pdf">[nn intro]</a>
   topics:
     - Course structure and outline
-    - Intro to ML and Language Modeling
+    - Intro to ML, Neural Nets and Language Modeling
   readings:
   extra-readings:
 
@@ -11,8 +11,7 @@
   title: >
     Week 2: <strong>ML and LM Introduction</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
   topics:
-    - More on ML and Language Modeling
-    - Quick intro to neural networks
+    - More on Language Modeling
     - Transformers
   readings:
     - <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a> <br/>
