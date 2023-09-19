@@ -9,7 +9,7 @@
 
 - date: tbd
   title: >
-    Week 2: <strong>ML and LM Introduction</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
+    Week 2: <strong>LM and Transformers</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
   topics:
     - More on Language Modeling
     - Transformers
