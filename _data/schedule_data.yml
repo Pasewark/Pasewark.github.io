@@ -11,7 +11,7 @@
   title: >
     Week 2: <strong>LM and Transformers</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
   topics:
-    - More on Language Modeling
+    - Training
     - Transformers
   readings:
     - <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a> <br/>
@@ -22,10 +22,11 @@
 
 - date: 10/3
   title: >
-    Week 3: <strong>Transformers</strong>
+    Week 3: <strong>Transformers</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
   topics:
     - Transformer code
-    - Training
+    - Language model capabilities
+    - Fine-tuning
   readings:
     - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
     - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
