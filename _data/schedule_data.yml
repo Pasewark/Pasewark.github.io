@@ -53,7 +53,7 @@
 
 - date: tbd
   title: >
-    Week 5: <strong>Parameter-efficient Methods and other Tricks</strong>
+    Week 5: <strong>Hardware, Implementation, and Parameter-efficient Methods</strong>
   topics:
     - Optimizers, Gradient Accumulation, Batch Size, etc.
     - Parallelism Strategies
