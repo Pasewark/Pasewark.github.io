@@ -9,7 +9,7 @@
 
 - date: 9/26
   title: >
-    Week 2: <strong>LM and Transformers</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
+    Week 2: <strong>Transformers 1</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
   topics:
     - Training
     - Transformers
@@ -22,7 +22,7 @@
 
 - date: 10/3
   title: >
-    Week 3: <strong>Transformers</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
+    Week 3: <strong>Transformers 2</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
   topics:
     - Transformer code
     - Language model capabilities
@@ -44,12 +44,11 @@
     - Instruction Tuning
   readings:
     - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> <br/>
-    - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> <br/>
     - <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca&#58; A Strong, Replicable Instruction-Following Model</a> <br/>
     - <a href="https://arxiv.org/abs/2112.00114">Show Your Work&#58; Scratchpads for Intermediate Computation with Language Models</a> <br/>
   extra-readings:
+    - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> <br/>
     - <a href="https://arxiv.org/abs/2305.11206">LIMA&#58; Less Is More for Alignment</a> <br/>
-    - <a href="https://arxiv.org/abs/2304.12244">WizardLM&#58; Empowering Large Language Models to Follow Complex Instructions</a> <br/>
     - <a href="https://arxiv.org/abs/2305.15717">The False Promise of Imitating Proprietary LLMs</a> <br/>
 
 - date: tbd
