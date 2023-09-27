@@ -23,8 +23,8 @@
   title: >
     Week 2: <strong>Transformers 2</strong> <a href="Week_2_Questions.pdf">[discussion questions]</a>
   topics:
-    - Training
     - Transformers
+    - Transformer code
   readings:
     - <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a> <br/>
     - <a href="http://jalammar.github.io/illustrated-gpt2/">The Illustrated GPT-2</a> <br/>
