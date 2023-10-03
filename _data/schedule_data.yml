@@ -21,7 +21,7 @@
 
 - date: 10/3
   title: >
-    Week 2: <strong>Transformers 2</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
+    Week 3: <strong>Transformers 2</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
   topics:
     - Transformers
     - Transformer code
@@ -34,7 +34,7 @@
 
 - date: 10/10
   title: >
-    Week 3: <strong>Transformers 3</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
+    Week 4: <strong>Transformers 3</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
   topics:
     - Transformer code
     - Language model capabilities
@@ -50,7 +50,7 @@
 
 - date: tbd
   title: >
-    Week 4: <strong>Fine-tuning</strong>
+    Week 5: <strong>Fine-tuning</strong>
   topics:
     - Methods
     - Instruction Tuning
@@ -65,7 +65,7 @@
 
 - date: tbd
   title: >
-    Week 5: <strong>Hardware, Implementation, and Parameter-efficient Methods</strong>
+    Week 6: <strong>Hardware, Implementation, and Parameter-efficient Methods</strong>
   topics:
     - Optimizers, Gradient Accumulation, Batch Size, etc.
     - Parallelism Strategies
