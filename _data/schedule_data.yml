@@ -36,12 +36,11 @@
   title: >
     Week 4: <strong>Transformers 3</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
   topics:
-    - Transformer code
     - Language model capabilities
     - Fine-tuning
   readings:
     - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> <br/>
-    - <a href="https://github.com/karpathy/minGPT">Karpathy Transformer-decoder implementation</a> <br/>
+    - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> <br/>
   extra-readings:
     - <a href="https://arxiv.org/abs/1810.04805">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a> <br/>
     - <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a> <br/>
@@ -55,7 +54,6 @@
     - Methods
     - Instruction Tuning
   readings:
-    - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> <br/>
     - <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca&#58; A Strong, Replicable Instruction-Following Model</a> <br/>
     - <a href="https://arxiv.org/abs/2112.00114">Show Your Work&#58; Scratchpads for Intermediate Computation with Language Models</a> <br/>
   extra-readings:
