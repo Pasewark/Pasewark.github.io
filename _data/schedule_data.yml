@@ -32,9 +32,9 @@
   extra-readings:
     
 
-- date: 10/10
+- date: 10/17
   title: >
-    Week 4: <strong>Transformers 3</strong> <a href="Week_3_Questions.pdf">[discussion questions]</a>
+    Week 4: <strong>Transformers 3</strong> <a href="Week_4_Questions.pdf">[discussion questions]</a>
   topics:
     - Language model capabilities
     - Fine-tuning
