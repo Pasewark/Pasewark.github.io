@@ -47,7 +47,7 @@
 
 
 
-- date: tbd
+- date: 10/24
   title: >
     Week 5: <strong>Fine-tuning</strong>
   topics:
@@ -61,7 +61,7 @@
     - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> <br/>
     - <a href="https://arxiv.org/abs/2305.15717">The False Promise of Imitating Proprietary LLMs</a> <br/>
 
-- date: tbd
+- date: 10/31
   title: >
     Week 6: <strong>Hardware, Implementation, and Parameter-efficient Methods</strong>
   topics:
