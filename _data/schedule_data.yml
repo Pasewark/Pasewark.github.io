@@ -56,9 +56,9 @@
   readings:
     - <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca&#58; A Strong, Replicable Instruction-Following Model</a> <br/>
     - <a href="https://arxiv.org/abs/2112.00114">Show Your Work&#58; Scratchpads for Intermediate Computation with Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2305.11206">LIMA&#58; Less Is More for Alignment</a> <br/>
   extra-readings:
     - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> <br/>
-    - <a href="https://arxiv.org/abs/2305.11206">LIMA&#58; Less Is More for Alignment</a> <br/>
     - <a href="https://arxiv.org/abs/2305.15717">The False Promise of Imitating Proprietary LLMs</a> <br/>
 
 - date: tbd
