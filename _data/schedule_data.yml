@@ -34,7 +34,7 @@
 
 - date: 10/17
   title: >
-    Week 4: <strong>Transformers 3</strong> <a href="Week_4_Questions.pdf">[discussion questions]</a>
+    Week 4: <strong>Capabilities and Instruction Tuning</strong> <a href="Week_4_Questions.pdf">[discussion questions]</a>
   topics:
     - Language model capabilities
     - Fine-tuning
@@ -51,8 +51,10 @@
   title: >
     Week 5: <strong>Fine-tuning</strong>
   topics:
-    - Methods
-    - Instruction Tuning
+    - Imitation
+    - Scratchpad fine-tuning
+    - LIMA
+    - Limitations
   readings:
     - <a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca&#58; A Strong, Replicable Instruction-Following Model</a> <br/>
     - <a href="https://arxiv.org/abs/2112.00114">Show Your Work&#58; Scratchpads for Intermediate Computation with Language Models</a> <br/>
