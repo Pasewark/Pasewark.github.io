@@ -77,9 +77,9 @@
     - <a href="https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2">Fine-Tuning LLMs&#58; LoRA or Full-Parameter? An in-depth Analysis with Llama 2</a> <br/>
     - <a href="https://arxiv.org/abs/2101.00190">Prefix-Tuning&#58; Optimizing Continuous Prompts for Generation</a> <br/>
 
-- date: tbd
+- date: 11/7
   title: >
-    Week 6: <strong>RLHF and more Fine-tuning</strong>
+    Week 7: <strong>RLHF and more Fine-tuning</strong>
   topics:
     - RLHF
     - Data Quality
@@ -92,34 +92,23 @@
     - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a> <br/>
     - <a href="https://www.youtube.com/watch?v=hhiLw5Q_UFg&ab_channel=BerkeleyEECS">John Schulman - Reinforcement Learning from Human Feedback&#58; Progress and Challenges</a> <br/>
 
-- date: tbd
+- date: 11/14
   title: >
-    Week 7: <strong>Prompting Strategies</strong>
+    Week 8: <strong>Prompting Strategies</strong>
   topics:
-    - Few-shot learning
+    - Few-shot learning review
     - Other prompting strategies
+    - More complicated prompting strategies
+    - LLMs as agents
   readings:
     - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2205.11916">Large Language Models are Zero-Shot Reasoners</a> <br/>
+    - <a href="https://arxiv.org/abs/2304.03442">Generative Agents&#58; Interactive Simulacra of Human Behavior</a> <br/>
   extra-readings:
     - <a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations&#58; What Makes In-Context Learning Work?</a> <br/>
     - <a href="https://arxiv.org/abs/2305.10601">Tree of Thoughts&#58; Deliberate Problem Solving with Large Language Models</a> <br/>
 
-- date: tbd
-  title: >
-    Week 8: <strong>Scaling Laws and Emergent Abilities</strong>
-  topics:
-    - Scaling Laws
-    - Emergent Abilities
-  readings:
-    - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a> <br/>
-    - <a href="https://arxiv.org/abs/2203.15556">Training Compute-Optimal Large Language Models</a> <br/>
-    - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a> <br/>
-  extra-readings:
-    - <a href="https://arxiv.org/abs/2304.15004">Are Emergent Abilities of Large Language Models a Mirage?</a> <br/>
-    - <a href="https://arxiv.org/abs/2309.01809">Are Emergent Abilities in Large Language Models just In-Context Learning?</a> <br/>
-
-- date: tbd
+- date: 11/21
   title: >
     Week 9: <strong>Multi-modal Models</strong>
   topics:
@@ -131,7 +120,7 @@
   extra-readings:
     - <a href="https://arxiv.org/abs/2209.06794">PaLI&#58; A Jointly-Scaled Multilingual Language-Image Model</a> <br/>
 
-- date: tbd
+- date: 11/28
   title: >
     Week 10: <strong>Applications to RL</strong>
   topics:
@@ -143,7 +132,7 @@
   extra-readings:
     - <a href="https://arxiv.org/abs/2302.02662">Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning</a> <br/>
 
-- date: tbd
+- date: 12/5
   title: >
     Week 11: <strong>Ethics and Societal Impacts</strong>
   topics:
@@ -159,7 +148,21 @@
 
 - date: tbd
   title: >
-    Week 12: <strong>Retrieval-Augmented Generation</strong>
+    Week ?: <strong>Scaling Laws and Emergent Abilities</strong>
+  topics:
+    - Scaling Laws
+    - Emergent Abilities
+  readings:
+    - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2203.15556">Training Compute-Optimal Large Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a> <br/>
+  extra-readings:
+    - <a href="https://arxiv.org/abs/2304.15004">Are Emergent Abilities of Large Language Models a Mirage?</a> <br/>
+    - <a href="https://arxiv.org/abs/2309.01809">Are Emergent Abilities in Large Language Models just In-Context Learning?</a> <br/>
+
+- date: tbd
+  title: >
+    Week ?: <strong>Retrieval-Augmented Generation</strong>
   topics:
     - Retrieval-Augmented Generation
   readings:
@@ -169,7 +172,7 @@
 
 - date: tbd
   title: >
-    Week 13: <strong>Tool Use</strong>
+    Week ?: <strong>Tool Use</strong>
   topics:
     - Methods to Teach Tool Use
   readings:
@@ -181,7 +184,7 @@
 
 - date: tbd
   title: >
-    Week 14: <strong>LLMs as Agents</strong>
+    Week ?: <strong>LLMs as Agents</strong>
   topics:
     - Transformer code
     - Training
