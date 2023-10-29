@@ -64,7 +64,7 @@
 
 - date: 10/31
   title: >
-    Week 6: <strong>Hardware, Implementation, and Parameter-efficient Methods</strong><a href="Week_6_Questions.pdf">[discussion questions]</a>
+    Week 6: <strong>Hardware, Implementation, and Parameter-efficient Methods</strong> <a href="Week_6_Questions.pdf">[discussion questions]</a>
   topics:
     - Optimizers, Gradient Accumulation, Batch Size, etc.
     - Parallelism Strategies
