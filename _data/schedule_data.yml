@@ -79,7 +79,7 @@
 
 - date: 11/7
   title: >
-    Week 7: <strong>RLHF and more Fine-tuning</strong>
+    Week 7: <strong>RLHF and more Fine-tuning</strong> <a href="Week_7_Questions.pdf">[discussion questions]</a>
   topics:
     - RLHF
     - Data Quality
@@ -87,9 +87,9 @@
   readings:
     - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> <br/>
     - <a href="https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81">Reinforcement Learning for Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a> <br/>
   extra-readings:
     - <a href="https://arxiv.org/abs/2308.08998">Reinforced Self-Training (ReST) for Language Modeling</a> <br/>
-    - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a> <br/>
     - <a href="https://www.youtube.com/watch?v=hhiLw5Q_UFg&ab_channel=BerkeleyEECS">John Schulman - Reinforcement Learning from Human Feedback&#58; Progress and Challenges</a> <br/>
 
 - date: 11/14
