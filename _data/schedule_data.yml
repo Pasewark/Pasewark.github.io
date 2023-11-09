@@ -94,18 +94,16 @@
 
 - date: 11/14
   title: >
-    Week 8: <strong>Prompting Strategies</strong>
+    Week 8: <strong>Prompting and Agents</strong>
   topics:
     - Few-shot learning review
-    - Other prompting strategies
-    - More complicated prompting strategies
+    - Chain of thought
     - LLMs as agents
   readings:
-    - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2205.11916">Large Language Models are Zero-Shot Reasoners</a> <br/>
     - <a href="https://arxiv.org/abs/2304.03442">Generative Agents&#58; Interactive Simulacra of Human Behavior</a> <br/>
   extra-readings:
-    - <a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations&#58; What Makes In-Context Learning Work?</a> <br/>
+    - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2305.10601">Tree of Thoughts&#58; Deliberate Problem Solving with Large Language Models</a> <br/>
 
 - date: 11/21
