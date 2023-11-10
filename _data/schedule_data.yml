@@ -94,7 +94,7 @@
 
 - date: 11/14
   title: >
-    Week 8: <strong>Prompting and Agents</strong>
+    Week 8: <strong>Prompting and Agents</strong> <a href="Week_8_Questions.pdf">[discussion questions]</a> 
   topics:
     - Few-shot learning review
     - Chain of thought
