@@ -113,10 +113,11 @@
     - Vision-Language Models
     - Other Multi-modal Models
   readings:
+    - <a href="https://arxiv.org/abs/2311.03079">CogVLM&#58; Visual Expert for Pretrained Language Models</a> <br/>
     - <a href="https://arxiv.org/abs/2303.03378">PaLM-E&#58; An Embodied Multimodal Language Model</a> <br/>
-    - <a href="https://arxiv.org/abs/2204.14198">Flamingo&#58; a Visual Language Model for Few-Shot Learning</a> <br/>
   extra-readings:
     - <a href="https://arxiv.org/abs/2209.06794">PaLI&#58; A Jointly-Scaled Multilingual Language-Image Model</a> <br/>
+    - <a href="https://arxiv.org/abs/2204.14198">Flamingo&#58; a Visual Language Model for Few-Shot Learning</a> <br/>
 
 - date: 11/28
   title: >
