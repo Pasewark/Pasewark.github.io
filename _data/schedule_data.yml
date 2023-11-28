@@ -139,9 +139,10 @@
     - Potential Future Issues
   readings:
     - <a href="https://arxiv.org/abs/2112.04359">Ethical and social risks of harm from Language Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2306.12001">An Overview of Catastrophic AI Risks</a> <br/>
+  extra-readings:
     - <a href="https://dl.acm.org/doi/10.1145/3442188.3445922">On the Dangers of Stochastic Parrots&#58; Can Language Models Be Too Big?</a> <br/>
     - <a href="https://arxiv.org/abs/2308.14840">Identifying and Mitigating the Security Risks of Generative AI</a> <br/>
-  extra-readings:
     - <a href="https://www.science.org/doi/10.1126/science.adj5957">How do we know how smart AI systems are?</a> <br/>
     - <a href="https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/">How Rogue AIs may Arise</a> <br/>
 
