@@ -7,5 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-Currently I am an assistant for Calc 3 at Washington University in St. Louis.
-I am also teaching a small course on large language models. The schedule is <a href="/llm-course">here</a>
+I taught a course on large language models at Washington University in St. Louis in fall 2023. The schedule is <a href="/llm-course">here</a>.
